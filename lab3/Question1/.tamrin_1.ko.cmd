@@ -1,0 +1,1 @@
+cmd_/home/ali/Desktop/Lab/Az3/Question1/tamrin_1.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -z noexecstack   --build-id  -T ./scripts/module-common.lds -o /home/ali/Desktop/Lab/Az3/Question1/tamrin_1.ko /home/ali/Desktop/Lab/Az3/Question1/tamrin_1.o /home/ali/Desktop/Lab/Az3/Question1/tamrin_1.mod.o;  true
